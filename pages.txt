@@ -1,0 +1,2691 @@
+{{-start-}}
+{{Template:Objectives
+|title='''Lost In Transit'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 180 [[Frame Full]]<br/>+ 2 [[Atmospheric Flat Fan]]<br/>+ 1 [[Camera]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 1 [[Gyro-Line]]<br/>+ 3 [[Axis Rotometer]]<br/>+ 1 [[Altimeter]]<br/>+ 5 [[Power Blocker]]<br/>+ 2 [[Power Router]]<br/>+ 1000000 [[Paint Roller (Moss)]]<br/>+ 1000000 [[Paint Roller (Red)]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 180 [[Frame Full]]<br/>+ 2 [[Atmospheric Flat Fan]]<br/>+ 1 [[Camera]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 1 [[Gyro-Line]]<br/>+ 3 [[Axis Rotometer]]<br/>+ 1 [[Altimeter]]<br/>+ 5 [[Power Blocker]]<br/>+ 2 [[Power Router]]<br/>+ 1000000 [[Paint Roller (Moss)]]<br/>+ 1000000 [[Paint Roller (Red)]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Lost In The Snow'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 150 [[Frame Full]]<br/>+ 25 [[Glass Full]]<br/>+ 2 [[Small Electric Thruster]]<br/>+ 2 [[Seat]]<br/>+ 2 [[Small Toggleable Light]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 4 [[Whiteboard]]<br/>+ 350 [[Data Cable]]<br/>+ 350 [[Power Cable]]<br/>+ 1 [[Windmeter]]<br/>+ 1 [[Aerometer]]<br/>+ 1 [[Atmometer]]<br/>+ 5 [[Speaker]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 150 [[Frame Full]]<br/>+ 25 [[Glass Full]]<br/>+ 2 [[Small Electric Thruster]]<br/>+ 2 [[Seat]]<br/>+ 2 [[Small Toggleable Light]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 4 [[Whiteboard]]<br/>+ 350 [[Data Cable]]<br/>+ 350 [[Power Cable]]<br/>+ 1 [[Windmeter]]<br/>+ 1 [[Aerometer]]<br/>+ 1 [[Atmometer]]<br/>+ 5 [[Speaker]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''To The Moon'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Ice Cream Freezer]]<br/>
+
+|Reward=+ 2 [[Monitor Small LCD]]<br/>+ 1 [[Small Electric Thruster]]<br/>+ 1 [[Accelerometer]]<br/>+ 1 [[Braking Point System (BPS)]]<br/>+ 2 [[Long Range Distance Meter]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Monitor Small LCD]]<br/>+ 1 [[Small Electric Thruster]]<br/>+ 1 [[Accelerometer]]<br/>+ 1 [[Braking Point System (BPS)]]<br/>+ 2 [[Long Range Distance Meter]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Drop The Depth Diver'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Unda Prime Submarine]]<br/>
+
+|Reward=+ 4 [[Floodlight]]<br/>+ 6 [[Ballast]]<br/>+ 1 [[Small Electric Thruster]]<br/>+ 4 [[Medium Damper]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 4 [[Floodlight]]<br/>+ 6 [[Ballast]]<br/>+ 1 [[Small Electric Thruster]]<br/>+ 4 [[Medium Damper]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Drumkit'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Drum Kit]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Drum Kit]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Wind Test'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Wind Shield Generator]]<br/>
+
+|Reward=+ 1 [[Wind Shield Generator]]<br/>+ 80 [[Plasma Cable]]<br/>+ 1 [[Windmeter]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Wind Shield Generator]]<br/>+ 80 [[Plasma Cable]]<br/>+ 1 [[Windmeter]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Operation Ghostwire'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 30 [[Wireless Transmitter]]<br/>+ 20 [[Label]]<br/>+ 3 [[Velocity Meter]]<br/>+ 3 [[Massmeter]]<br/>+ 3 [[Speaker]]<br/>+ 5 [[Large Datameter]]<br/>+ 5 [[Large Power Router]]<br/>+ 250 [[Data Cable]]<br/>+ 250 [[Power Cable]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 30 [[Wireless Transmitter]]<br/>+ 20 [[Label]]<br/>+ 3 [[Velocity Meter]]<br/>+ 3 [[Massmeter]]<br/>+ 3 [[Speaker]]<br/>+ 5 [[Large Datameter]]<br/>+ 5 [[Large Power Router]]<br/>+ 250 [[Data Cable]]<br/>+ 250 [[Power Cable]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Moon Shipment'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 300 [[Frame Full]]<br/>+ 2 [[Personnel Door]]<br/>+ 30 [[Glass Full]]<br/>+ 2 [[Camera With Zoom]]<br/>+ 2 [[Medium Rechargeable Battery]]<br/>+ 30 [[Logic Value]]<br/>+ 1 [[Dynamo Box]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 300 [[Frame Full]]<br/>+ 2 [[Personnel Door]]<br/>+ 30 [[Glass Full]]<br/>+ 2 [[Camera With Zoom]]<br/>+ 2 [[Medium Rechargeable Battery]]<br/>+ 30 [[Logic Value]]<br/>+ 1 [[Dynamo Box]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Big Battery Problem'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Large Disposable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Large Disposable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Clima Bomb'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Clima Bomb]]<br/>
+
+|Reward=+ 1 [[Gravitymeter]]<br/>+ 2 [[Camera Overlay]]<br/>+ 6 [[Small Maneuvering Thruster]]<br/>+ 3 [[Electric Flat Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Gravitymeter]]<br/>+ 2 [[Camera Overlay]]<br/>+ 6 [[Small Maneuvering Thruster]]<br/>+ 3 [[Electric Flat Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Mammoth Express'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Rotational Telescopic Camera]]<br/>+ 4 [[Medium Rechargeable Battery]]<br/>+ 3 [[Fuse Box]]<br/>+ 200 [[Power Cable]]<br/>+ 4 [[Auto-Hemisphere Solar Panel]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Rotational Telescopic Camera]]<br/>+ 4 [[Medium Rechargeable Battery]]<br/>+ 3 [[Fuse Box]]<br/>+ 200 [[Power Cable]]<br/>+ 4 [[Auto-Hemisphere Solar Panel]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Unstable Delivery'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Unstable Lighting Cell]]<br/>
+
+|Reward=+ 3 [[Small Rechargeable Battery]]<br/>+ 4 [[Solar Panel]]<br/>+ 3 [[Electric Flat Thruster]]<br/>+ 4 [[Distance Meter]]<br/>+ 2 [[Beeper]]<br/>+ 1 [[Medium Gate]]<br/>+ 300 [[Data Cable]]<br/>+ 300 [[Power Cable]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 3 [[Small Rechargeable Battery]]<br/>+ 4 [[Solar Panel]]<br/>+ 3 [[Electric Flat Thruster]]<br/>+ 4 [[Distance Meter]]<br/>+ 2 [[Beeper]]<br/>+ 1 [[Medium Gate]]<br/>+ 300 [[Data Cable]]<br/>+ 300 [[Power Cable]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Trial By Thrust'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Medium Electric Thruster]]<br/>
+
+|Reward=+ 1 [[Medium Electric Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Medium Electric Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''One Is Never Enough'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Medium Electric Thruster]]<br/>+ 2 [[Medium Disposable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Medium Electric Thruster]]<br/>+ 2 [[Medium Disposable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Hue Done It?'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1000000 [[Paint Roller (White)]]<br/>+ 1000000 [[Paint Roller (Orange)]]<br/>+ 1000000 [[Paint Roller (Teal)]]<br/>+ 1000000 [[Paint Roller (Blue)]]<br/>+ 1000000 [[Paint Roller (Brown)]]<br/>+ 1000000 [[Paint Roller (Yellow)]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1000000 [[Paint Roller (White)]]<br/>+ 1000000 [[Paint Roller (Orange)]]<br/>+ 1000000 [[Paint Roller (Teal)]]<br/>+ 1000000 [[Paint Roller (Blue)]]<br/>+ 1000000 [[Paint Roller (Brown)]]<br/>+ 1000000 [[Paint Roller (Yellow)]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Knock Knock'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Angry Box]]<br/>
+
+|Reward=+ 1 [[Red Alert Light]]<br/>+ 300 [[Data Cable]]<br/>+ 300 [[Power Cable]]<br/>+ 6 [[Large Power Router]]<br/>+ 2 [[Power Usage Meter]]<br/>+ 2 [[Power Generation Meter]]<br/>+ 2 [[Whiteboard]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Red Alert Light]]<br/>+ 300 [[Data Cable]]<br/>+ 300 [[Power Cable]]<br/>+ 6 [[Large Power Router]]<br/>+ 2 [[Power Usage Meter]]<br/>+ 2 [[Power Generation Meter]]<br/>+ 2 [[Whiteboard]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Very Wet Package'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Small Plasma Generator]]<br/>+ 200 [[Plasma Cable]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Small Plasma Generator]]<br/>+ 200 [[Plasma Cable]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Parachute Incident'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Thermometer]]<br/>+ 40 [[Logic Value]]<br/>+ 2 [[Speaker]]<br/>+ 250 [[Data Cable]]<br/>+ 250 [[Power Cable]]<br/>+ 20 [[Wireless Transmitter]]<br/>+ 6 [[Lever Vertical]]<br/>+ 10 [[Power Router]]<br/>+ 6 [[Power Blocker]]<br/>+ 2 [[Inclinometer]]<br/>+ 1 [[Monitor Small LCD]]<br/>+ 300 [[Frame Full]]<br/>+ 25 [[Glass Full]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Thermometer]]<br/>+ 40 [[Logic Value]]<br/>+ 2 [[Speaker]]<br/>+ 250 [[Data Cable]]<br/>+ 250 [[Power Cable]]<br/>+ 20 [[Wireless Transmitter]]<br/>+ 6 [[Lever Vertical]]<br/>+ 10 [[Power Router]]<br/>+ 6 [[Power Blocker]]<br/>+ 2 [[Inclinometer]]<br/>+ 1 [[Monitor Small LCD]]<br/>+ 300 [[Frame Full]]<br/>+ 25 [[Glass Full]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Ignite!'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 4 [[Small Fuel Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 4 [[Small Fuel Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''First Pipes'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 100 [[Pipe Quarter]]<br/>+ 10 [[Pipe Meter]]<br/>+ 5 [[Pipe With Manual Valve]]<br/>+ 5 [[Pipe With Electric Valve]]<br/>+ 1 [[Fuel Analyzer]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 100 [[Pipe Quarter]]<br/>+ 10 [[Pipe Meter]]<br/>+ 5 [[Pipe With Manual Valve]]<br/>+ 5 [[Pipe With Electric Valve]]<br/>+ 1 [[Fuel Analyzer]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Blue Tanks'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 2 [[Blue Tank]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Blue Tank]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Night Vision Test'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Night Vision Camera]]<br/>
+
+|Reward=+ 1 [[Night Vision Camera]]<br/>+ 2 [[Monitor Medium LCD]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Night Vision Camera]]<br/>+ 2 [[Monitor Medium LCD]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Baobara Interference'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Baobara Interferencemeter]]<br/>
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Tree Lid'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Baobara Interferencemeter]]<br/>+ 1 [[Large Gate]]<br/>
+
+|Reward=+ 1 [[Large Gate]]<br/>+ 2 [[Ramp Gate]]<br/>+ 1 [[Space Scanner]]<br/>+ 1 [[Space GPS]]<br/>+ 1 [[Magnetometer]]<br/>+ 4 [[Medium Damper]]<br/>+ 300 [[Data Cable]]<br/>+ 200 [[Power Cable]]<br/>+ 30 [[Plasma Cable]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Large Gate]]<br/>+ 2 [[Ramp Gate]]<br/>+ 1 [[Space Scanner]]<br/>+ 1 [[Space GPS]]<br/>+ 1 [[Magnetometer]]<br/>+ 4 [[Medium Damper]]<br/>+ 300 [[Data Cable]]<br/>+ 200 [[Power Cable]]<br/>+ 30 [[Plasma Cable]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''What Happened To Baobab'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1000 [[Nanoframe Full]]<br/>+ 2 [[Small Nanogate]]<br/>+ 1 [[Medium Nanogate]]<br/>+ 1 [[Large Nanogate]]<br/>+ 4 [[Personnel Nanodoor]]<br/>+ 2 [[Nanoramp Gate]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1000 [[Nanoframe Full]]<br/>+ 2 [[Small Nanogate]]<br/>+ 1 [[Medium Nanogate]]<br/>+ 1 [[Large Nanogate]]<br/>+ 4 [[Personnel Nanodoor]]<br/>+ 2 [[Nanoramp Gate]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Green Candyflower'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Small Holographic Display]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Small Holographic Display]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Yellow Candyflower'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Medium Holographic Display]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Medium Holographic Display]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Blue Candyflower'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Small Holographic Display]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Small Holographic Display]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Candy Bouquet'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Candy Bouquet]]<br/>
+
+|Reward=+ 1 [[Large Disposable Battery]]<br/>+ 1 [[Large Rechargeable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Large Disposable Battery]]<br/>+ 1 [[Large Rechargeable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Dark Side Of The Paint'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1000000 [[Paint Roller (Black)]]<br/>+ 1000000 [[Paint Roller (Gray)]]<br/>+ 1000000 [[Paint Roller (Purple)]]<br/>+ 1000000 [[Paint Roller (Pink)]]<br/>+ 1000000 [[Paint Roller (Green)]]<br/>+ 1000000 [[Paint Roller (Cyan)]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1000000 [[Paint Roller (Black)]]<br/>+ 1000000 [[Paint Roller (Gray)]]<br/>+ 1000000 [[Paint Roller (Purple)]]<br/>+ 1000000 [[Paint Roller (Pink)]]<br/>+ 1000000 [[Paint Roller (Green)]]<br/>+ 1000000 [[Paint Roller (Cyan)]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Maneuvering Upgrade'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 6 [[Medium Maneuvering Thruster]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 1 [[Large Disposable Battery]]<br/>+ 300 [[Frame Full]]<br/>+ 2 [[Personnel Door]]<br/>+ 40 [[Pipe Quarter]]<br/>+ 8 [[Lever Vertical]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 6 [[Medium Maneuvering Thruster]]<br/>+ 2 [[Medium Disposable Battery]]<br/>+ 1 [[Large Disposable Battery]]<br/>+ 300 [[Frame Full]]<br/>+ 2 [[Personnel Door]]<br/>+ 40 [[Pipe Quarter]]<br/>+ 8 [[Lever Vertical]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Rock Obsession'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[C4 Bomb]]<br/>+ 1 [[Decoupler Small]]<br/>
+
+|Reward=+ 15 [[Decoupler Small]]<br/>+ 1 [[Medium Fuel Thruster]]<br/>+ 2 [[Small Solid Fuel Thruster]]<br/>+ 2 [[Outcast Polar Anchor]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 15 [[Decoupler Small]]<br/>+ 1 [[Medium Fuel Thruster]]<br/>+ 2 [[Small Solid Fuel Thruster]]<br/>+ 2 [[Outcast Polar Anchor]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Find Outcast'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Jungle Electronics'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 500 [[Data Cable]]<br/>+ 500 [[Power Cable]]<br/>+ 120 [[Logic Value]]<br/>+ 15 [[Wireless Transmitter]]<br/>+ 4 [[Camera Overlay]]<br/>+ 5 [[Speaker]]<br/>+ 10 [[Lever Vertical]]<br/>+ 10 [[Power Router]]<br/>+ 5 [[Large Power Router]]<br/>+ 30 [[Label]]<br/>+ 4 [[Beeper]]<br/>+ 3 [[Red Alert Light]]<br/>+ 3 [[Power Usage Meter]]<br/>+ 3 [[Power Generation Meter]]<br/>+ 12 [[Large Datameter]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 500 [[Data Cable]]<br/>+ 500 [[Power Cable]]<br/>+ 120 [[Logic Value]]<br/>+ 15 [[Wireless Transmitter]]<br/>+ 4 [[Camera Overlay]]<br/>+ 5 [[Speaker]]<br/>+ 10 [[Lever Vertical]]<br/>+ 10 [[Power Router]]<br/>+ 5 [[Large Power Router]]<br/>+ 30 [[Label]]<br/>+ 4 [[Beeper]]<br/>+ 3 [[Red Alert Light]]<br/>+ 3 [[Power Usage Meter]]<br/>+ 3 [[Power Generation Meter]]<br/>+ 12 [[Large Datameter]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''More Fuel'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 2 [[Blue Tank]]<br/>+ 120 [[Pipe Quarter]]<br/>+ 4 [[Pipe Meter]]<br/>+ 6 [[Pipe With Manual Valve]]<br/>+ 4 [[Pipe With Electric Valve]]<br/>+ 2 [[Fuel Analyzer]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Blue Tank]]<br/>+ 120 [[Pipe Quarter]]<br/>+ 4 [[Pipe Meter]]<br/>+ 6 [[Pipe With Manual Valve]]<br/>+ 4 [[Pipe With Electric Valve]]<br/>+ 2 [[Fuel Analyzer]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Ducted Fans'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 2 [[Ducted Fan]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Ducted Fan]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Operation Glowgarden'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 12 [[Colored Light]]<br/>+ 5 [[Colored Light Controller]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 12 [[Colored Light]]<br/>+ 5 [[Colored Light Controller]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Green Trench'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 3 [[Green Trench Pump]]<br/>
+
+|Reward=+ 3 [[Green Tank]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 3 [[Green Tank]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Outcast Wind'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ -2 [[Outcast Polar Anchor]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ -2 [[Outcast Polar Anchor]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Living Radiation'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 400 [[Power Nanocable]]<br/>+ 200 [[Power Cable]]<br/>+ 150 [[Data Cable]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 400 [[Power Nanocable]]<br/>+ 200 [[Power Cable]]<br/>+ 150 [[Data Cable]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''A Lot Of Frame'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 500 [[Frame Full]]<br/>+ 60 [[Glass Full]]<br/>+ 2 [[Small Gate]]<br/>+ 1 [[Medium Gate]]<br/>+ 2 [[Personnel Door]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 500 [[Frame Full]]<br/>+ 60 [[Glass Full]]<br/>+ 2 [[Small Gate]]<br/>+ 1 [[Medium Gate]]<br/>+ 2 [[Personnel Door]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Operation No More Shaking'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 4 [[Large Damper]]<br/>+ 4 [[Solar Panel]]<br/>+ 370 [[Frame Full]]<br/>+ 70 [[Glass Full]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 4 [[Large Damper]]<br/>+ 4 [[Solar Panel]]<br/>+ 370 [[Frame Full]]<br/>+ 70 [[Glass Full]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Overloading Crystal'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Overloading Crystal]]<br/>
+
+|Reward=+ 6 [[Extendable Damper]]<br/>+ 5 [[Medium Rechargeable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 6 [[Extendable Damper]]<br/>+ 5 [[Medium Rechargeable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Crystal Twins'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Thermoscan]]<br/>
+
+|Reward=+ 4 [[Small Solid Fuel Thruster]]<br/>+ 1 [[Thermoscan]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 4 [[Small Solid Fuel Thruster]]<br/>+ 1 [[Thermoscan]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Rimshell Support'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 400 [[Frame Full]]<br/>+ 70 [[Logic Value]]<br/>+ 350 [[Data Cable]]<br/>+ 30 [[Wireless Transmitter]]<br/>+ 5 [[Power Blocker]]<br/>+ 4 [[Seat]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 400 [[Frame Full]]<br/>+ 70 [[Logic Value]]<br/>+ 350 [[Data Cable]]<br/>+ 30 [[Wireless Transmitter]]<br/>+ 5 [[Power Blocker]]<br/>+ 4 [[Seat]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Hazard Barrel'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Solar Shield Generator]]<br/>+ 1 [[Small Plasma Generator]]<br/>+ 100 [[Plasma Cable]]<br/>+ 2 [[Medium Rechargeable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Solar Shield Generator]]<br/>+ 1 [[Small Plasma Generator]]<br/>+ 100 [[Plasma Cable]]<br/>+ 2 [[Medium Rechargeable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Rimcore'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 2 [[Rimcore Turbopump]]<br/>
+
+|Reward=+ 2 [[Red Tank]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Red Tank]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Triplehead Sunflower'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Sunflower Pot]]<br/>+ 1 [[Large Holographic Display]]<br/>+ 1 [[Monitor Large LCD]]<br/>+ 2 [[Monitor Small LCD]]<br/>+ 6 [[Solar Panel]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Sunflower Pot]]<br/>+ 1 [[Large Holographic Display]]<br/>+ 1 [[Monitor Large LCD]]<br/>+ 2 [[Monitor Small LCD]]<br/>+ 6 [[Solar Panel]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''First Helirion Lost Package'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 100 [[Pipe Quarter]]<br/>+ 3 [[Pipe Meter]]<br/>+ 3 [[Pipe With Manual Valve]]<br/>+ 3 [[Pipe With Electric Valve]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 100 [[Pipe Quarter]]<br/>+ 3 [[Pipe Meter]]<br/>+ 3 [[Pipe With Manual Valve]]<br/>+ 3 [[Pipe With Electric Valve]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Second Helirion Lost Package'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Medium Fuel Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Medium Fuel Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Third Helirion Lost Package'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 3 [[Fuse Box]]<br/>+ 200 [[Power Nanocable]]<br/>+ 4 [[Auto-Hemisphere Solar Panel]]<br/>+ 1 [[Night Vision Camera]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 3 [[Fuse Box]]<br/>+ 200 [[Power Nanocable]]<br/>+ 4 [[Auto-Hemisphere Solar Panel]]<br/>+ 1 [[Night Vision Camera]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Mushroom Woods'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Project Altimirror'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Color Barrels'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1000000 [[Paint Roller (Burgundy)]]<br/>+ 1000000 [[Paint Roller (Celadon)]]<br/>+ 1000000 [[Paint Roller (Periwinkle)]]<br/>+ 1000000 [[Paint Roller (Petrol)]]<br/>+ 1000000 [[Paint Roller (Terracotta)]]<br/>+ 1000000 [[Paint Roller (Violet)]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1000000 [[Paint Roller (Burgundy)]]<br/>+ 1000000 [[Paint Roller (Celadon)]]<br/>+ 1000000 [[Paint Roller (Periwinkle)]]<br/>+ 1000000 [[Paint Roller (Petrol)]]<br/>+ 1000000 [[Paint Roller (Terracotta)]]<br/>+ 1000000 [[Paint Roller (Violet)]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Bidirectional Thrusters'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 6 [[Bidirectional Maneuvering Thruster]]<br/>+ 1 [[Large Disposable Battery]]<br/>+ 500 [[Nanoframe Full]]<br/>+ 5 [[Lever Vertical]]<br/>+ 6 [[Large Datameter]]<br/>+ 12 [[Power Router]]<br/>+ 8 [[Large Power Router]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 6 [[Bidirectional Maneuvering Thruster]]<br/>+ 1 [[Large Disposable Battery]]<br/>+ 500 [[Nanoframe Full]]<br/>+ 5 [[Lever Vertical]]<br/>+ 6 [[Large Datameter]]<br/>+ 12 [[Power Router]]<br/>+ 8 [[Large Power Router]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Liquid Fire'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 2 [[Lava Pumping Tank]]<br/>
+
+|Reward=+ 2 [[Blue Tank]]<br/>+ 2 [[Green Tank]]<br/>+ 2 [[Red Tank]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Blue Tank]]<br/>+ 2 [[Green Tank]]<br/>+ 2 [[Red Tank]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Broken Big Thing'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Fuel Thruster Recovery'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Damaged Large Fuel Thruster]]<br/>
+
+|Reward=+ 2 [[Large Fuel Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Large Fuel Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Brachiosaurus Egg'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 2 [[Large Disposable Battery]]<br/>+ 2 [[Large Rechargeable Battery]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Large Disposable Battery]]<br/>+ 2 [[Large Rechargeable Battery]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Dino Cable Problem'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1200 [[Power Nanocable]]<br/>+ 8 [[Power Router]]<br/>+ 4 [[Large Power Router]]<br/>+ 5 [[Fuse Box]]<br/>+ 6 [[Lever Vertical]]<br/>+ 10 [[Speaker]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1200 [[Power Nanocable]]<br/>+ 8 [[Power Router]]<br/>+ 4 [[Large Power Router]]<br/>+ 5 [[Fuse Box]]<br/>+ 6 [[Lever Vertical]]<br/>+ 10 [[Speaker]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Triceratops Transport'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 2 [[Large Electric Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 2 [[Large Electric Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Glass Supply'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 240 [[Glass Full]]<br/>+ 10 [[Colored Light]]<br/>+ 4 [[Colored Light Controller]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 240 [[Glass Full]]<br/>+ 10 [[Colored Light]]<br/>+ 4 [[Colored Light Controller]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Nanotungsten Cube'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=+ 1 [[Nanotungsten Cube]]<br/>
+
+|Reward=+ 1500 [[Nanoframe Full]]<br/>+ 2 [[Small Nanogate]]<br/>+ 2 [[Medium Nanogate]]<br/>+ 2 [[Large Nanogate]]<br/>+ 4 [[Personnel Nanodoor]]<br/>+ 2 [[Nanoramp Gate]]<br/>+ 2 [[Ducted Fan]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1500 [[Nanoframe Full]]<br/>+ 2 [[Small Nanogate]]<br/>+ 2 [[Medium Nanogate]]<br/>+ 2 [[Large Nanogate]]<br/>+ 4 [[Personnel Nanodoor]]<br/>+ 2 [[Nanoramp Gate]]<br/>+ 2 [[Ducted Fan]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Saving Gold Twin'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 3 [[Large Maneuvering Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 3 [[Large Maneuvering Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Saving Pink Twin'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 3 [[Large Maneuvering Thruster]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 3 [[Large Maneuvering Thruster]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Giant Toothpicks'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 400 [[Nanopipe Quarter]]<br/>+ 20 [[Nanopipe Meter]]<br/>+ 15 [[Nanopipe With Manual Valve]]<br/>+ 15 [[Nanopipe With Electric Valve]]<br/>+ 1 [[Fuel Analyzer]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 400 [[Nanopipe Quarter]]<br/>+ 20 [[Nanopipe Meter]]<br/>+ 15 [[Nanopipe With Manual Valve]]<br/>+ 15 [[Nanopipe With Electric Valve]]<br/>+ 1 [[Fuel Analyzer]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Return Of The Herd'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''Reindeer Antlers'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=+ 1 [[Small Holographic Display]]<br/>+ 1 [[Medium Holographic Display]]<br/>+ 1 [[Large Holographic Display]]<br/>+ 1000 [[Data Cable]]<br/>+ 100 [[Logic Value]]<br/>+ 20 [[Wireless Transmitter]]<br/>+ 5 [[Camera Overlay]]<br/>+ 10 [[Lever Vertical]]<br/>+ 10 [[Large Datameter]]<br/>+ 2 [[Camera With Zoom]]<br/>
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
++ 1 [[Small Holographic Display]]<br/>+ 1 [[Medium Holographic Display]]<br/>+ 1 [[Large Holographic Display]]<br/>+ 1000 [[Data Cable]]<br/>+ 100 [[Logic Value]]<br/>+ 20 [[Wireless Transmitter]]<br/>+ 5 [[Camera Overlay]]<br/>+ 10 [[Lever Vertical]]<br/>+ 10 [[Large Datameter]]<br/>+ 2 [[Camera With Zoom]]<br/>
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
+{{-start-}}
+{{Template:Objectives
+|title='''The Long Way Home'''
+|image=
+|caption=
+
+|Type=
+
+|In Universe=
+
+|In=
+|During Objective=
+
+|Reward=
+
+|Name=
+|ID=
+
+|Planets=In; From; To
+|Items=During Objective; Reward
+|Internal Info=Name; ID
+}}
+== Objective ==
+
+== Description ==
+
+== Hints ==
+
+== Guide ==
+== Reward ==
+
+== Gallery ==
+
+----
+== History ==
+* Version [[1.0]]:
+** Introduced
+{{-stop-}}
+
